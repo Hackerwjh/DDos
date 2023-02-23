@@ -19,14 +19,6 @@ bytes = random._urandom(1490)
 
 os.system("cls")
 os.system("figlet DDos Attack")
-print
-print ("Author   : HA-MRX")
-print ("You Tube : https://www.youtube.com/channelUCCgy7i_A5yhAEdY86rPOinA")
-print ("github   : https://github.com/Ha3MrX")
-print ("Facebook : https://www.facebook.com/muhamad.jabar222")
-print("改编by：常源")
-print("QQ：old six life")
-print("感谢CSDN大佬的帮助")
 print("软件仅仅用于试验，切勿用于非法用途")
 print
 ip = input("IP Target : ")
